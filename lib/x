@@ -1,0 +1,88 @@
+01. Animation
+  CookBookTitle(num: '02', title: 'Animate a page route transition'),
+  CookBookTitle(num: '03', title: 'Animate a widget using a physics simulation'),
+  CookBookTitle(num: '04', title: 'Animate the properties of a container'),
+  CookBookTitle(num: '05', title: 'Fade a widget in and out'),
+
+02. Design
+    Design(num: '07', title: 'Add a Drawer to a screen'),
+    Design(num: '08', title: 'Display a snackbar'),
+    Design(num: '09', title: 'Export fonts from a package'),
+    Design(num: '10', title: 'Update the UI based on orientation'),
+    Design(num: '11', title: 'Use a custom font'),
+    Design(num: '12', title: 'Use themes to share colors and font styles'),
+    Design(num: '13', title: 'Work with tabs'),
+
+03. Forms
+  Forms(num: '15', title: 'Build a form with validation'),
+  Forms(num: '16', title: 'Create and style a text field'),
+  Forms(num: '17', title: 'Focus and text fields'),
+  Forms(num: '18', title: 'Handle changes to a text field'),
+  Forms(num: '19', title: 'Retrieve the value of a text field'),
+
+4. Gestures
+  Gestures(num: '21', title: 'Add Material touch ripples'),
+  Gestures(num: '22', title: 'Handle taps'),
+  Gestures(num: '23', title: 'Implement swipe to dismiss'),
+
+05. Images
+  Images(num: '25', title: 'Display images from the internet'),
+  Images(num: '26', title: 'Fade in images with a placeholder'),
+  Images(num: '27', title: 'Work with cached images'),
+
+06. Lists
+  Lists(num: '29', title: 'Create a grid list'),
+  Lists(num: '30', title: 'Create a horizontal list'),
+  Lists(num: '31', title: 'Create lists with different types of items'),
+  Lists(num: '32', title: 'Place a floating app bar above a list'),
+  Lists(num: '33', title: 'Use lists'),
+  Lists(num: '34', title: 'Work with long lists'),
+
+07. Maintenance
+  Maintenance(num: '36', title: 'Report errors to a service'),
+
+08. Navigation
+  Navigation(num: '38', title: 'Animate a widget across screens'),
+  Navigation(num: '39', title: 'Navigate to a new screen and back'),
+  Navigation(num: '40', title: 'Navigate with named routes'),
+  Navigation(num: '41', title: 'Pass arguments to a named route'),
+  Navigation(num: '42', title: 'Return data from a screen'),
+  Navigation(num: '43', title: 'Send data to a new screen'),
+
+09. Networking
+  Networking(num: '45', title: 'Delete data on the internet'),
+  Networking(num: '46', title: 'Fetch data from the internet'),
+  Networking(num: '47', title: 'Make authenticated requests'),
+  Networking(num: '48', title: 'Parse JSON in the background'),
+  Networking(num: '49', title: 'Send data to the internet'),
+  Networking(num: '50', title: 'Update data over the internet'),
+  Networking(num: '51', title: 'Work with WebSockets'),
+
+10. Persistence
+  Persistence(num: '53', title: 'Persist data with SQLite'),
+  Persistence(num: '54', title: 'Read and write files'),
+  Persistence(num: '55', title: 'Store key-value data on disk'),
+
+11. Plugins
+  Plugins(num: '57', title: 'Play and pause a video'),
+  Plugins(num: '58', title: 'Take a picture using the camera'),
+  Plugins(num: '59', title: 'Testing'),
+  Plugins(num: '60', title: 'Integration'),
+  Plugins(num: '61', title: 'An introduction to integration testing'),
+  Plugins(num: '62', title: 'Handle scrolling'),
+  Plugins(num: '63', title: 'Performance profiling'),
+  Plugins(num: '64', title: 'Unit'),
+  Plugins(num: '65', title: 'An introduction to unit testing'),
+  Plugins(num: '66', title: 'Mock dependencies using Mockito'),
+  Plugins(num: '67', title: 'Widget'),
+  Plugins(num: '68', title: 'An introduction to widget testing'),
+  Plugins(num: '69', title: 'Find widgets'),
+  Plugins(num: '70', title: 'Tap, drag, and enter text'),
+
+
+
+
+
+
+
+
