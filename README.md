@@ -2,6 +2,4 @@
 
 Flutter CookBook Hints
 
-## Getting Started
-
-- [Go](https://fch.netlify.app/)
+## [Go](https://fch.netlify.app/)
